@@ -1,163 +1,213 @@
 {
   "main": {
-    "name":"Tim Baker",
-    "occupation":"(Your Occupation Here)",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
-    "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+    "name": "Francesco HARTEMANN",
+    "occupation": "Apprenti developpeur fullstack",
+    "description": "êtant passionné par la téchnologie et extrêmement motivé je mets à dispositon mes compétences pour la réalisation de projets. (site vitrine, web application, application mobile, maintenance, tache à automatiser...)",
+    "image": "0.jpg",
+    "bio": "Contactez-moi pour la réalisation de projets que vous avez en tête, nous discuterons alors par message pour bien établir vos objectifs. Je propose aussi une maintenace du projets durant le mois à venir après le rendu du produit et bien évidemment durant toute la réalisation du projet vous serez tenu au courant des avancées et vous aurez aussi des démonstrations pour que le rendu soit identique à vos attentes.",
+    "contactmessage": "",
+    "email": "hart.francesco@gmail.com",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "Fremainville",
+      "state": "France",
+      "zip": "95450"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
-    "social":[
+    "website": "",
+    "resumedownload": "CV Francesco HARTEMANN #1.pdf",
+    "social": [
       {
-        "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
-        "className":"fa fa-facebook"
+        "name": "facebook",
+        "url": "https://www.facebook.com/public/Francesco-Hartman",
+        "className": "fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
+        "name": "twitter",
+        "url": "https://twitter.com/franceebbasta2",
+        "className": "fa fa-twitter"
+      },
+
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/francesco-hartemann-65893618a/",
+        "className": "fa fa-linkedin"
       },
       {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
+        "name": "instagram",
+        "url": "http://instagram.com/fibyou",
+        "className": "fa fa-instagram"
       },
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
-        "className":"fa fa-linkedin"
+        "name": "github",
+        "url": "http://github.com/Francesco-HART",
+        "className": "fa fa-github"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
-        "name":"github",
-        "url":"http://github.com/tbakerx",
-        "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
+        "name": "github",
+        "url": "http://github.com/Francesco-HART",
+        "className": "fa fa-linux"
       }
     ]
   },
-  "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
-    "education":[
+  "resume": {
+    "skillmessage": "Développeur de site web, web application, application mobile et de solutions automatisées",
+    "education": [
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Coding Factory by ITESCIA, Cergy Paris",
+        "degree": "Bachelor développeur web et mobile",
+        "graduated": "Septembre 2022",
+        "description": "Apprentissage de langages informatiques et de technologies pour la réalisation de site web, d'application mobile, d'application desktop, de projets domotiqe. Nous apprenons aussi à devenir entrepreneur et à réaliser des projets de A à Z dans un cadre agile en applicant la méthodologie Scrum."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "CY UNIVERSITE , Cergy Paris",
+        "degree": "Licence mathématique, physique, informatique",
+        "graduated": "",
+        "description": "Introduction à l'algorithmique et aux langages informatiques C et Java. Nous etudions aussi l'algèbre linéaire la physique et l'ingénieurie"
       }
     ],
-    "work":[
+    "work": [
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "M2M Factory",
+        "title": "Apprenti développeur en alternance",
+        "years": "Décembre 2020 - Present",
+        "description": "Développement de solutions conteneurisées via Docker.ReactJS / NodeJS / MongoDB / GraphQL / API Rest / GoLang / Python / Docker / NGINX"
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "WomParis - Station F",
+        "title": "Indépendent",
+        "years": "Juin 2020 - Present",
+        "description": "Développement d'une application web et mobile cross platform. ReactJS / NodeJS / MongoDB / GraphQL."
+      },
+      {
+        "company": "Job Attack",
+        "title": "Stage",
+        "years": "Juin 2019 - Septembre 2020",
+        "description": "Stage de découverte du travail en entreprise et des langages ReactJS et NodeJS ."
       }
     ],
-    "skills":[
+    "skills": [
       {
-        "name":"Git",
-        "level":"60%"
+        "name": "Golang",
+        "level": "60%"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
+        "name": "Python",
+        "level": "80%"
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
+        "name": "Java",
+        "level": "70%"
       },
       {
-        "name":"CSS",
-        "level":"90%"
+        "name": "NodeJS",
+        "level": "90%"
       },
       {
-        "name":"HTML5",
-        "level":"80%"
+        "name": "React JS",
+        "level": "90%"
       },
       {
-        "name":"VueJs",
-        "level":"50%"
+        "name": "React Native",
+        "level": "90%"
       },
       {
-        "name":"MongoDB",
-        "level":"80%"
+        "name": "JavaScript",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5/CSS",
+        "level": "90%"
+      },
+      {
+        "name": "MariaDB / MongoDB",
+        "level": "90%"
+      },
+      {
+        "name": "Docker",
+        "level": "60%"
       }
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title": "Cook'n Save",
+        "category": "Projet web et bientôt mobile sur le thème du gaspillage allimentaire et les recettes de cuisines. ReactJS / FireBase / NodeJS / API Rest / MongoDB",
+        "image": "cook'nSavewebb.jpg",
+        "url": "https://cook-and-save.netlify.app/"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title": "Mario 2D",
+        "category": "Mini jeu Mario . Java",
+        "image": "mario2D.jpg",
+        "url": "https://github.com/Francesco-HART/Mario2D"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title": "WomParis",
+        "category": "Web application / application mobile réalisé pour le groupe WomParis afin d'aider les restaurateurs à trouver de nouveaux clients. ReactJS / React Native / NodeJS / GraphQL / MongoDB",
+        "image": "womWebb.jpg",
+        "url": "https://github.com/Francesco-HART/Wom"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title": "Coding Project",
+        "category": "Project Web d'apprentissage. HTML5 / CSS3 / JavaScript",
+        "image": "codingProject.jpg",
+        "url": "https://github.com/Francesco-HART/SrintHTML-CSS"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title": "Jeu d'échec",
+        "category": "Jeu d'échec desktop. Java / Gradle",
+        "image": "chess.jpg",
+        "url": "https://github.com/Francesco-HART/Chess-game"
+      },
+      {
+        "title": "D Mineur",
+        "category": "Le fameux jeu du D-Mineur. Javascript",
+        "image": "dMineur.jpg",
+        "url": "https://github.com/Francesco-HART/D-mineur"
+      },
+      {
+        "title": "ChatBox",
+        "category": "Mini web application d'envoie de msg.",
+        "image": "chatBox.jpg",
+        "url": "https://github.com/Francesco-HART/ChatBox"
+      },
+      {
+        "title": "Cv en ligne",
+        "category": "Site web de présentation. ReactJS / Jquery ",
+        "image": "jesuisFrancesco.jpg",
+        "url": "#"
+      },
+      {
+        "title": "Generateur de filtre",
+        "category": "Executable afin de modifier vos photo. Java / Gradle",
+        "image": "smirkspace.jpg",
+        "url": "https://github.com/Francesco-HART/javafilter"
+      },
+      {
+        "title": "Uzum",
+        "category": "Application mobile sur les jeux pour les groupes d'amis. React Native / NodeJs / GraphQL",
+        "image": "logoIOS.jpg",
+        "url": "#"
+      },
+      {
+        "title": "Solveur de Sudoku",
+        "category": "Automate capable de resoudre des sudoku. Python",
+        "image": "sudoku.jpg",
+        "url": "https://github.com/Francesco-HART/solveurSudokuPython"
       }
     ]
   },
-  "testimonials":{
-    "testimonials":[
+  "testimonials": {
+    "testimonials": [
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
       }
     ]
   }
